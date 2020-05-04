@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "rossys-be-app-executor",
+    "name": "rossys-be-app",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "unubv2ooo3",
+    "module": "index"
+  }
+}
